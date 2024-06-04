@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">academy_exam_weather_app</string>
+    <string name="main_text">Weather</string>
+    <string name="userInputText">input city</string>
+    <string name="buttonText">find</string>
+    <string name="emptyInput">you didn\'t enter anything</string>
+</resources>
